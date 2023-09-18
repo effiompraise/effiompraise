@@ -1,4 +1,4 @@
-<h1>Hi, I'm Praise! <a href="https://www.linkedin.com/in/praise-effiom-a65a70196/">Cybersecurity Professional</a>
+<h1>Hi, I'm Praise! <a href="https://www.linkedin.com/in/praiseeffiom/">Cybersecurity Professional</a>
 
 <h2>👨‍💻 Cybersecurity Projects:</h2>
 
