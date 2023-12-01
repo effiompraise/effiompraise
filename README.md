@@ -7,7 +7,7 @@
 
 <h2>🗒️ Certifications</h2>
 
-- [Google Cybersecurity Professional](https://www.coursera.org/account/accomplishments/professional-cert/GG2BKGM9AHET)
+- [Google Cybersecurity Professional](https://www.credly.com/badges/b667b1f4-bba0-45cf-b45f-0a5b175b6c77)
 
 
 <h2> 🤳 Connect with me:</h2>
