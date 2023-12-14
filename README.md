@@ -4,6 +4,7 @@
 
 - [Active Directory Home Lab](https://github.com/effiompraise/ActiveDirectoryLab/tree/main)
 - [File Permissions in Linux](https://github.com/effiompraise/File-Permissions-in-Linux)
+- [Azure / Cloud Projects](https://github.com/effiompraise/Azure-Cloud-SOC)
 
 <h2>🗒️ Certifications</h2>
 
