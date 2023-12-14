@@ -9,6 +9,7 @@
 <h2>🗒️ Certifications</h2>
 
 - [Google Cybersecurity Professional](https://www.credly.com/badges/b667b1f4-bba0-45cf-b45f-0a5b175b6c77)
+- [Cybersecurity Masterclass: SOC Analyst](https://app.kajabi.com/certificates/09c5ab88)
 
 
 <h2> 🤳 Connect with me:</h2>
