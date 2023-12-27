@@ -10,6 +10,7 @@
 
 - [Google Cybersecurity Professional](https://www.credly.com/badges/b667b1f4-bba0-45cf-b45f-0a5b175b6c77)
 - [Cybersecurity Masterclass: SOC Analyst](https://app.kajabi.com/certificates/09c5ab88)
+- [Cyber Threat Hunting](https://issuer.gutenbergcerts.com/pdf/20230119-ACTI-kb00_5c37498e-95ec-4ce2-8ae0-33047b5d8321.pdf)
 
 <h2>📺 YouTube Videos</h2>
 
