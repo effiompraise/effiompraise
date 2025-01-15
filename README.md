@@ -9,7 +9,8 @@
 <h2>🖥️ IT Projects:</h2>
 
 - [Active Directory Home Lab](https://github.com/effiompraise/ActiveDirectoryLab/tree/main)
-- <a href="https://www.upwork.com/freelancers/~013e8df6d618f7fd6a" target="_blank">Google Workspace to Office 365 Migration</a>
+- [Google Workspace to Office 365 Migration](https://www.upwork.com/freelancers/~013e8df6d618f7fd6a)
+- [Shared Mailbox Configuration](https://www.upwork.com/freelancers/~013e8df6d618f7fd6a)
 
 <h2>🗒️ Certifications</h2>
 
