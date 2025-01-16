@@ -1,10 +1,15 @@
 <h1>Hi, I'm Praise! <a href="https://www.linkedin.com/in/praiseeffiom/">Web Developer | Cybersecurity Professional</a></h1>
 
-<h2>👨‍💻 Cybersecurity Projects:</h2>
+<h2>👨🏽‍💻 Cybersecurity Projects:</h2>
 
 - [File Permissions in Linux](https://github.com/effiompraise/File-Permissions-in-Linux)
 - [Azure / Cloud Projects](https://github.com/effiompraise/Azure-Cloud-SOC)
 - [Vulnerability Management with OpenVAS](https://github.com/effiompraise/OpenVAS)
+
+<h2>👨🏽‍💻 Web Development:</h2>
+- [Vulnerability Management with OpenVAS](https://github.com/effiompraise/OpenVAS)
+- [TechCon_HTML](https://github.com/effiompraise/TechCon_HTML)
+- [ALX_HTML_CSS](https://github.com/effiompraise/alx_html_css)
 
 <h2>🖥️ IT Projects:</h2>
 
