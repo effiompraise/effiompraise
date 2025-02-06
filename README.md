@@ -9,6 +9,7 @@
 <h2>👨🏽‍💻 Web Development:</h2>
 
 - [ALX_HTML_CSS](https://github.com/effiompraise/alx_html_css)
+- [Dynamic Quote Generator](https://github.com/effiompraise/alx_fe_javascript)
 - [demo-site](https://github.com/effiompraise/Phone_Accessories)
 - [ALX_demo_Portfolio](https://github.com/effiompraise/My_First_Portfolio)
 
