@@ -8,6 +8,7 @@
 
 <h2>👨🏽‍💻 Web Development:</h2>
 
+- [Phishing-detection-tool](https://phishing-detection-analysis-tool.vercel.app/)
 - [ALX_HTML_CSS](https://github.com/effiompraise/alx_html_css)
 - [Dynamic Quote Generator](https://github.com/effiompraise/alx_fe_javascript)
 - [demo-site](https://github.com/effiompraise/Phone_Accessories)
