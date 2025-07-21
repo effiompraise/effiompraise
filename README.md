@@ -29,6 +29,7 @@
 - [Cyber Threat Hunting](https://issuer.gutenbergcerts.com/pdf/20230119-ACTI-kb00_5c37498e-95ec-4ce2-8ae0-33047b5d8321.pdf)
 - [ALX Professional Foundations](https://imgur.com/GMInUk6)
 - [ALX Front-End Web Development](https://savanna.alxafrica.com/certificates/eYcrPzLfNy)
+- [Microsoft Azure Security Engineer Associate (AZ-500)](https://www.credly.com/badges/1324fa84-114f-4479-b383-c3811625909c/public_url)
 
 <h2>📺 YouTube Videos</h2>
 
