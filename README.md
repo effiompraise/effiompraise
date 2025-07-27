@@ -30,6 +30,7 @@
 - [ALX Professional Foundations](https://imgur.com/GMInUk6)
 - [ALX Front-End Web Development](https://savanna.alxafrica.com/certificates/eYcrPzLfNy)
 - [Microsoft Azure Security Engineer Associate (AZ-500)](https://www.credly.com/badges/1324fa84-114f-4479-b383-c3811625909c/public_url)
+- [Google Digital Marketing and E-Commerce Professional Certificate](https://www.credly.com/badges/fb47f975-36b2-4041-becf-ce9a4ecf7507/public_url)
 
 <h2>📺 YouTube Videos</h2>
 
