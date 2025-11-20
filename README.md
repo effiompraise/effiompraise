@@ -18,7 +18,7 @@
 
 <h2>🛡️👨‍💻 DevOps:</h2>
 
-- [Phishing-detection-tool](https://phishing-detection-analysis-tool.vercel.app/)
+- [Agile Workflow Management Using Azure Boards](https://github.com/effiompraise/Agile-Workflow-Management-Using-Azure-Boards)
 
 <h2>🖥️ IT Projects:</h2>
 
