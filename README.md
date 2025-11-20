@@ -1,4 +1,4 @@
-<h1>Hi, I'm Praise! <a href="https://www.linkedin.com/in/praiseeffiom/">Web Developer | Cybersecurity Professional</a></h1>
+<h1>Azure Platform Security | DevSecOps Automation | Front-End Development</a></h1>
 
 <h2>👨🏽‍💻 Cybersecurity Projects:</h2>
 
