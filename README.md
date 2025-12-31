@@ -7,6 +7,7 @@
 - [Vulnerability Management with OpenVAS](https://github.com/effiompraise/OpenVAS)
 - [Using SQL to Filter Records](https://drive.google.com/file/d/15TYnkHp9Z9qn0mL7LZMtEHxOk6ztHhsJ/view?usp=drive_link)
 - [Securing-Azure-SQL-Database-A-Comprehensive-Security-Implementation](https://github.com/effiompraise/Securing-Azure-SQL-Database-A-Comprehensive-Security-Implementation)
+- [Azure Firewall Implementation: Zero Trust Perimeter](https://github.com/effiompraise/Azure-Firewall-Implementation-Zero-Trust-Network-Segmentation-Policy-Enforcement)
 
 <h2>👨🏽‍💻 Web Development:</h2>
 
