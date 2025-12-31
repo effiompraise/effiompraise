@@ -9,6 +9,7 @@
 - [Securing-Azure-SQL-Database-A-Comprehensive-Security-Implementation](https://github.com/effiompraise/Securing-Azure-SQL-Database-A-Comprehensive-Security-Implementation)
 - [Azure Firewall Implementation: Zero Trust Perimeter](https://github.com/effiompraise/Azure-Firewall-Implementation-Zero-Trust-Network-Segmentation-Policy-Enforcement)
 - [Azure Private Link Implementation](https://github.com/effiompraise/Azure-Private-Link-Implementation-Secure-Cross-VNet-Connectivity-using-Bicep)
+- [Azure Secret Management: Zero-Code Credential Access using Managed Identity & Key Vault](https://github.com/effiompraise/Azure-Secret-Management-Zero-Code-Credential-Access-using-Managed-Identity-Key-Vault)
 
 <h2>👨🏽‍💻 Web Development:</h2>
 
