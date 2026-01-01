@@ -11,6 +11,7 @@
 - [Azure Private Link Implementation](https://github.com/effiompraise/Azure-Private-Link-Implementation-Secure-Cross-VNet-Connectivity-using-Bicep)
 - [Azure Secret Management: Zero-Code Credential Access using Managed Identity & Key Vault](https://github.com/effiompraise/Azure-Secret-Management-Zero-Code-Credential-Access-using-Managed-Identity-Key-Vault)
 - [Global Traffic Management: Subnet-Based Routing with Azure Traffic Manager](https://github.com/effiompraise/Global-Traffic-Management-Subnet-Based-Routing-with-Azure-Traffic-Manager)
+- [Hybrid Cloud Networking: Secure Site-to-Site VPN Architecture](https://github.com/effiompraise/Hybrid-Cloud-Networking-Secure-Site-to-Site-VPN-Architecture)
 
 <h2>👨🏽‍💻 Web Development:</h2>
 
