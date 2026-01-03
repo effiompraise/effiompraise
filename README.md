@@ -41,6 +41,7 @@
 - [ALX Front-End Web Development](https://savanna.alxafrica.com/certificates/eYcrPzLfNy)
 - [Microsoft Azure Security Engineer Associate (AZ-500)](https://www.credly.com/badges/1324fa84-114f-4479-b383-c3811625909c/public_url)
 - [Google Digital Marketing and E-Commerce Professional Certificate](https://www.credly.com/badges/fb47f975-36b2-4041-becf-ce9a4ecf7507/public_url)
+- [Microsoft Certified: Security, Compliance, and Identity Fundamentals](https://learn.microsoft.com/en-gb/users/praiseeffiom/credentials/62cc47f778a491d6?ref=https%3A%2F%2Fwww.digitalapriko.com%2F)
 
 <h2>📺 YouTube Videos</h2>
 
